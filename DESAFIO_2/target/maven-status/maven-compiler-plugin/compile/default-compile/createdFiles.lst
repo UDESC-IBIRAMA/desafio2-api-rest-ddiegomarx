@@ -1,0 +1,8 @@
+service\ApplicationConfig.class
+br\udesc\cavi\eso\dsw\dsw_desafio_2\Carro.class
+br\udesc\cavi\eso\dsw\dsw_desafio_2\Carro_.class
+service\AbstractFacade.class
+service\MotoFacadeREST.class
+br\udesc\cavi\eso\dsw\dsw_desafio_2\Moto_.class
+service\CarroFacadeREST.class
+br\udesc\cavi\eso\dsw\dsw_desafio_2\Moto.class
